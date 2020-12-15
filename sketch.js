@@ -123,7 +123,7 @@ function draw() {
     spawnClouds();
     spawnObstacles();
 
-    if (score>300){
+    if (score>299){
       gameState=WIN
 
     }
